@@ -1,0 +1,9 @@
+C:\Users\izbur\Desktop\ozelders_ugur_burak\NTierDesing_KatmanliMimari.Uİ\NTierDesing_KatmanliMimari.BusinessLayer\obj\Debug\NTierDesing_KatmanliMimari.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\izbur\Desktop\ozelders_ugur_burak\NTierDesing_KatmanliMimari.Uİ\NTierDesing_KatmanliMimari.BusinessLayer\obj\Debug\NTierDesing_KatmanliMimari.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\izbur\Desktop\ozelders_ugur_burak\NTierDesing_KatmanliMimari.Uİ\NTierDesing_KatmanliMimari.BusinessLayer\bin\Debug\NTierDesing_KatmanliMimari.BusinessLayer.dll
+C:\Users\izbur\Desktop\ozelders_ugur_burak\NTierDesing_KatmanliMimari.Uİ\NTierDesing_KatmanliMimari.BusinessLayer\bin\Debug\NTierDesing_KatmanliMimari.BusinessLayer.pdb
+C:\Users\izbur\Desktop\ozelders_ugur_burak\NTierDesing_KatmanliMimari.Uİ\NTierDesing_KatmanliMimari.BusinessLayer\bin\Debug\NTierDesing_KatmanliMimari.DataLayer.dll
+C:\Users\izbur\Desktop\ozelders_ugur_burak\NTierDesing_KatmanliMimari.Uİ\NTierDesing_KatmanliMimari.BusinessLayer\bin\Debug\NTierDesing_KatmanliMimari.DataLayer.pdb
+C:\Users\izbur\Desktop\ozelders_ugur_burak\NTierDesing_KatmanliMimari.Uİ\NTierDesing_KatmanliMimari.BusinessLayer\obj\Debug\NTierDesing_KatmanliMimari.BusinessLayer.csproj.CopyComplete
+C:\Users\izbur\Desktop\ozelders_ugur_burak\NTierDesing_KatmanliMimari.Uİ\NTierDesing_KatmanliMimari.BusinessLayer\obj\Debug\NTierDesing_KatmanliMimari.BusinessLayer.dll
+C:\Users\izbur\Desktop\ozelders_ugur_burak\NTierDesing_KatmanliMimari.Uİ\NTierDesing_KatmanliMimari.BusinessLayer\obj\Debug\NTierDesing_KatmanliMimari.BusinessLayer.pdb

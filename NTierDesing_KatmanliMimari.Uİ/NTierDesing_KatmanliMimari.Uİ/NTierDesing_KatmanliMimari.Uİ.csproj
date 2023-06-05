@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0DC33CF5-62CC-4892-9784-4BDCA9BBCDED}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>NTierDesing_KatmanliMimari.Uİ</RootNamespace>
+    <AssemblyName>NTierDesing_KatmanliMimari.Uİ</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\Ders\frmDersCRUD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Ders\frmDersCRUD.Designer.cs">
+      <DependentUpon>frmDersCRUD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMenu.Designer.cs">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Ogrenci\frmOgrenciCrud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Ogrenci\frmOgrenciCrud.Designer.cs">
+      <DependentUpon>frmOgrenciCrud.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Ogrenci\frmOgrenciDers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Ogrenci\frmOgrenciDers.Designer.cs">
+      <DependentUpon>frmOgrenciDers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Sehir\frmSehirCRUD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Sehir\frmSehirCRUD.Designer.cs">
+      <DependentUpon>frmSehirCRUD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\Ders\frmDersCRUD.resx">
+      <DependentUpon>frmDersCRUD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMenu.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Ogrenci\frmOgrenciCrud.resx">
+      <DependentUpon>frmOgrenciCrud.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Ogrenci\frmOgrenciDers.resx">
+      <DependentUpon>frmOgrenciDers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Sehir\frmSehirCRUD.resx">
+      <DependentUpon>frmSehirCRUD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\NTierDesing_KatmanliMimari.BusinessLayer\NTierDesing_KatmanliMimari.BusinessLayer.csproj">
+      <Project>{0e3145a5-3c42-4d63-b765-eb6f814b9855}</Project>
+      <Name>NTierDesing_KatmanliMimari.BusinessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NTierDesing_KatmanliMimari.DataLayer\NTierDesing_KatmanliMimari.DataLayer.csproj">
+      <Project>{3ab748ac-46dd-4df2-b7be-ce4d3b8695e1}</Project>
+      <Name>NTierDesing_KatmanliMimari.DataLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NTierDesing_KatmanliMimari.TypeLayer\NTierDesing_KatmanliMimari.TypeLayer.csproj">
+      <Project>{a7a5559e-521a-4ac3-8adc-47c4974feb59}</Project>
+      <Name>NTierDesing_KatmanliMimari.TypeLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,6 @@
+C:\Users\izbur\Desktop\ozelders_ugur_burak\NTierDesing_KatmanliMimari.Uİ\NTierDesing_KatmanliMimari.TypeLayer\bin\Debug\NTierDesing_KatmanliMimari.TypeLayer.dll
+C:\Users\izbur\Desktop\ozelders_ugur_burak\NTierDesing_KatmanliMimari.Uİ\NTierDesing_KatmanliMimari.TypeLayer\bin\Debug\NTierDesing_KatmanliMimari.TypeLayer.pdb
+C:\Users\izbur\Desktop\ozelders_ugur_burak\NTierDesing_KatmanliMimari.Uİ\NTierDesing_KatmanliMimari.TypeLayer\obj\Debug\NTierDesing_KatmanliMimari.TypeLayer.csproj.AssemblyReference.cache
+C:\Users\izbur\Desktop\ozelders_ugur_burak\NTierDesing_KatmanliMimari.Uİ\NTierDesing_KatmanliMimari.TypeLayer\obj\Debug\NTierDesing_KatmanliMimari.TypeLayer.csproj.CoreCompileInputs.cache
+C:\Users\izbur\Desktop\ozelders_ugur_burak\NTierDesing_KatmanliMimari.Uİ\NTierDesing_KatmanliMimari.TypeLayer\obj\Debug\NTierDesing_KatmanliMimari.TypeLayer.dll
+C:\Users\izbur\Desktop\ozelders_ugur_burak\NTierDesing_KatmanliMimari.Uİ\NTierDesing_KatmanliMimari.TypeLayer\obj\Debug\NTierDesing_KatmanliMimari.TypeLayer.pdb

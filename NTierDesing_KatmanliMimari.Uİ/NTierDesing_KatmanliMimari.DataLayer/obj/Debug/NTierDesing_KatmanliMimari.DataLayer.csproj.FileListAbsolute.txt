@@ -1,0 +1,6 @@
+C:\Users\izbur\Desktop\ozelders_ugur_burak\NTierDesing_KatmanliMimari.Uİ\NTierDesing_KatmanliMimari.DataLayer\bin\Debug\NTierDesing_KatmanliMimari.DataLayer.dll
+C:\Users\izbur\Desktop\ozelders_ugur_burak\NTierDesing_KatmanliMimari.Uİ\NTierDesing_KatmanliMimari.DataLayer\bin\Debug\NTierDesing_KatmanliMimari.DataLayer.pdb
+C:\Users\izbur\Desktop\ozelders_ugur_burak\NTierDesing_KatmanliMimari.Uİ\NTierDesing_KatmanliMimari.DataLayer\obj\Debug\NTierDesing_KatmanliMimari.DataLayer.csproj.AssemblyReference.cache
+C:\Users\izbur\Desktop\ozelders_ugur_burak\NTierDesing_KatmanliMimari.Uİ\NTierDesing_KatmanliMimari.DataLayer\obj\Debug\NTierDesing_KatmanliMimari.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\izbur\Desktop\ozelders_ugur_burak\NTierDesing_KatmanliMimari.Uİ\NTierDesing_KatmanliMimari.DataLayer\obj\Debug\NTierDesing_KatmanliMimari.DataLayer.dll
+C:\Users\izbur\Desktop\ozelders_ugur_burak\NTierDesing_KatmanliMimari.Uİ\NTierDesing_KatmanliMimari.DataLayer\obj\Debug\NTierDesing_KatmanliMimari.DataLayer.pdb
